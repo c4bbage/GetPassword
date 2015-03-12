@@ -1,6 +1,6 @@
 #pragma once
 #include "stdafx.h"
-
+#define SECURITY_WIN32 //for complie win32 app,ERROR SECURITY_WIN32, SECURITY_KERNEL 2015.3.12
 using namespace std;
 
 typedef struct _WDIGEST_LIST_ENTRY {
