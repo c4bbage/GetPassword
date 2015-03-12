@@ -1,5 +1,5 @@
 // GetPassword.cpp : Defines the entry point for the console application.
-//
+// need Runtime Library /MT
 
 #include "stdafx.h"
 
